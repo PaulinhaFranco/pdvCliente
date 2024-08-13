@@ -1,0 +1,9 @@
+com\example\pdvCliente\interfaces\IResource.class
+com\example\pdvCliente\resource\ClienteResource.class
+com\example\pdvCliente\repository\ClienteRepository.class
+com\example\pdvCliente\interfaces\IService.class
+com\example\pdvCliente\model\Cliente$ClienteBuilder.class
+com\example\pdvCliente\interfaces\GenericOperations.class
+com\example\pdvCliente\PdvClienteApplication.class
+com\example\pdvCliente\service\ClienteService.class
+com\example\pdvCliente\model\Cliente.class
